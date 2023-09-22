@@ -2,6 +2,10 @@
 
 # compare-jar Changelog
 
-## [Unreleased]
-### Added
-- Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
+## [1.0.0]
+
+- 1.00 init
+
+# 中文更新日志
+
+- 1.00 基本功能
